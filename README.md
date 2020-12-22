@@ -20,6 +20,6 @@ Decision trees are used as the weak learner in gradient boosting. Specifically r
 
 
 GB vs RF
-Like random forests, gradient boosting is a set of decision trees. The two main differences are: How trees are built: random forests builds each tree independently while gradient boosting builds one tree at a time.
+Like random forests, gradient boosting is a set of decision trees. The two main differences are: How trees are built: random forests builds each tree independently while gradient boosting builds one tree at a time. 
 
 
